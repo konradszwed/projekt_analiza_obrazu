@@ -1,4 +1,4 @@
-Index, File  name , Type  of  the  image , Image  Height , Image  Width , Dimension  of  Image , Image  size , Maximum  RGB , Minimum  RGB , R  channel , G  channel , B  channel , Baza  wygenerowana  przez  Konrad  Szwed  dnia  2019-04-27  16:07:24.937346  |  Zawiera  5000  elementow 
+Index, File  name , Type  of  the  image , Image  Height , Image  Width , Dimension  of  Image , Image  size , Maximum  RGB , Minimum  RGB , R  channel , G  channel , B  channel , Baza  wygenerowana  przez  Konrad  Szwed  dnia  2019-04-29  15:42:59.003691  |  Zawiera  5000  elementow 
 0,\Users\rooni\Desktop\projekt_analiza_obrazu\baza\000000000139.jpg, <class  'imageio.core.util.Array'> ,426,640,3,817920,239,0,169,155,108
 1,\Users\rooni\Desktop\projekt_analiza_obrazu\baza\000000000285.jpg, <class  'imageio.core.util.Array'> ,640,586,3,1125120,255,0,96,145,40
 2,\Users\rooni\Desktop\projekt_analiza_obrazu\baza\000000000632.jpg, <class  'imageio.core.util.Array'> ,483,640,3,927360,255,0,101,112,104
